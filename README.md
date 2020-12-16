@@ -1,5 +1,5 @@
 #### Hi, I'm Manoj Bhargavan <a href="mailto:manoj.bhargavan@outlook.in">
-  <img src="images/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+  <img src="icons/outlook-icon.svg" alt="outlook"  height="32px" width="32px">
 </a>
 
 <a href="https://www.linkedin.com/in/manojbhargavan/">
