@@ -2,12 +2,8 @@
   <img src="images/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
 </a>
 
-<a href="https://www.linkedin.com/in/nikiforov-alexey/">
+<a href="https://www.linkedin.com/in/manojbhargavan/">
     <img src="images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-</a>
-
-<a href="https://twitter.com/nikiforovall">
-    <img src="images/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
 </a>
 
 - 🌱 I’m currently learning **.NET Core**, **Docker**, **Azure**, **Microservices**, **React**.
