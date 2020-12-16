@@ -1,10 +1,4 @@
-#### Hi, I'm Manoj Bhargavan <a href="mailto:manoj.bhargavan@outlook.in">
-  <img src="icons/outlook-icon.svg" alt="outlook"  height="32px" width="32px">
-</a>
-
-<a href="https://www.linkedin.com/in/manojbhargavan/">
-    <img src="icons/linkedin/linkedin-original.svg" alt="linkedin" height="32px" width="32px">
-</a>
+#### Hi, I'm Manoj Bhargavan <a href="mailto:manoj.bhargavan@outlook.in"><img src="icons/outlook-icon.svg" alt="outlook"  height="16px" width="16px"></a> <a href="https://www.linkedin.com/in/manojbhargavan/"><img src="icons/linkedin/linkedin-original.svg" alt="linkedin" height="16px" width="16px"></a>
 
 #### Skills/Learning 
 > <img src="icons/csharp/csharp-original.svg" alt="csharp" height="32px" width="32px"> <img src="icons/javascript/javascript-original.svg" alt="js" height="32px" width="32px"> <img src="icons/typescript/typescript-original.svg" alt="ts" height="32px" width="32px"> <img src="icons/html5/html5-original.svg" alt="ts" height="32px" width="32px"> <img src="icons/css3/css3-original.svg" alt="ts" height="32px" width="32px"> <img src="icons/sql-server.png" alt="tsql" height="32px" width="32px"> <img src="icons/react/react-original.svg" alt="react" height="32px" width="32px"> 
