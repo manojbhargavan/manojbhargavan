@@ -3,7 +3,6 @@
 - 👯 I’m looking to collaborate on challenging enterprise projects, frameworks, and tools for developers.
 - 🤔 I’m looking for help with finding time for all of the good stuff.
 - 💬 Ask me about .NET, Azure, Finance / Anything.
-- 📫 How to reach me: https://www.linkedin.com/in/manojbhargavan/
 
 ## Skills
 > ##### Programming/Scripting Languages  &#8594; C#.Net, JavaScript, TypeScript, and Transact SQL. 
