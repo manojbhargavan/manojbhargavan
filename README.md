@@ -14,7 +14,8 @@
 ![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojbhargavan&count_private=true&show_icons=true)
 
 ## Skills/Learning
-> ##### Programming/Scripting Languages  &#8594; <img src="icons/csharp/csharp-original.svg" alt="csharp" height="32px" width="32px" align="left"><img src="icons/javascript/javascript-original.svg" alt="js" height="32px" width="32px" align="left"><img src="icons/typescript/typescript-original.svg" alt="ts" height="32px" width="32px" align="left"><img src="icons/html5/html5-original.svg" alt="ts" height="32px" width="32px" align="left"><img src="icons/css3/css3-original.svg" alt="ts" height="32px" width="32px" align="left"><img src="icons/sql-server.png" alt="ts" height="32px" width="32px" align="left">
+> ##### Programming/Scripting Languages
+<img src="icons/csharp/csharp-original.svg" alt="csharp" height="32px" width="32px" align="left"><img src="icons/javascript/javascript-original.svg" alt="js" height="32px" width="32px" align="left"><img src="icons/typescript/typescript-original.svg" alt="ts" height="32px" width="32px" align="left"><img src="icons/html5/html5-original.svg" alt="ts" height="32px" width="32px" align="left"><img src="icons/css3/css3-original.svg" alt="ts" height="32px" width="32px" align="left"><img src="icons/sql-server.png" alt="ts" height="32px" width="32px" align="left">
 
 > ##### Development Methodologies &#8594; Agile Scrum, Waterfall 
 > ##### Technologies &#8594; .NET Framework 4.7, dotnet core 3.1. 
