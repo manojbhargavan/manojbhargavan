@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi, I'm Manoj Bhargavan
+- 🌱 I’m currently learning **.NET Core**, **Docker**, **Azure**, **Microservices**, **React**.
+- 👯 I’m looking to collaborate on challenging enterprise projects, frameworks, and tools for developers.
+- 🤔 I’m looking for help with finding time for all of the good stuff.
+- 💬 Ask me about .NET, Azure, Finance / Anything.
+- 📫 How to reach me: https://www.linkedin.com/in/manojbhargavan/
 
-<!--
-**manojbhargavan/manojbhargavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+> ##### Programming/Scripting Languages  &#8594; C#.Net, JavaScript, TypeScript, and Transact SQL. 
+> ##### Development Methodologies &#8594; Agile Scrum, Waterfall 
+> ##### Technologies &#8594; .NET Framework 4.7, dotnet core 2.0, SSIS, SSRS, Tableau. 
+> ##### Cloud Platforms &#8594; Microsoft Azure
+> ##### Web Technologies &#8594; ASP.NET, ASP.Net core, Angular 8
+> ##### Databases &#8594; MS SQL Server, MarkLogic
+> ##### Unit testing &#8594; NUnit, xUnit.
+> ##### Development Tools &#8594; Visual Studio, Visual Studio Code, SQL Server Management Studio, ReSharper, Postman, Jira
 
-Here are some ideas to get you started:
+[![Manoj's github stats](https://github-readme-stats.vercel.app/api?username=manojbhargavan&count_private=true&show_icons=true)](https://github.com/manojbhargavan/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:manoj.bhargavan@outlook.in">
+  <img src="images/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://www.linkedin.com/in/nikiforov-alexey/">
+    <img src="images/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+</a>
+
+<a href="https://twitter.com/nikiforovall">
+    <img src="images/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+</a>
