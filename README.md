@@ -20,7 +20,7 @@
 ## Skills
 > ##### Programming/Scripting Languages  &#8594; C#.Net, JavaScript, TypeScript, and Transact SQL. 
 > ##### Development Methodologies &#8594; Agile Scrum, Waterfall 
-> ##### Technologies &#8594; .NET Framework 4.7, dotnet core 2.0, SSIS, SSRS, Tableau. 
+> ##### Technologies &#8594; .NET Framework 4.7, dotnet core 3.1. 
 > ##### Cloud Platforms &#8594; Microsoft Azure
 > ##### Web Technologies &#8594; ASP.NET, ASP.Net core, Angular 8
 > ##### Databases &#8594; MS SQL Server, MarkLogic
