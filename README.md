@@ -1,4 +1,4 @@
-### Hi, I'm Manoj Bhargavan <a href="mailto:manoj.bhargavan@outlook.in" _target="blank"><img src="images/outlook-icon.svg" alt="outlook"  height="20px" width="20px"></a> <a href="https://www.linkedin.com/in/manojbhargavan/"><img src="https://staticimgstoremb.blob.core.windows.net/images/raw/linkedin/linkedin-original.svg" alt="linkedin" height="20px" width="20px" _target="blank"></a>
+### Hi, I'm Manoj Bhargavan <a href="mailto:manoj.bhargavan@outlook.in" _target="blank"><img src="https://staticimgstoremb.blob.core.windows.net/images/raw/outlook-icon.svg" alt="outlook"  height="20px" width="20px"></a> <a href="https://www.linkedin.com/in/manojbhargavan/"><img src="https://staticimgstoremb.blob.core.windows.net/images/raw/linkedin/linkedin-original.svg" alt="linkedin" height="20px" width="20px" _target="blank"></a>
 
 #### Skills/Learning
 
