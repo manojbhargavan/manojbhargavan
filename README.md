@@ -34,6 +34,7 @@
 - <a href="https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/e15429a0d57feb0d" target="_blank">AZ-900: Azure Fundamentals</a>  
 - <a href="https://basno.com/khjlx43i?em=li&t=1486162961" target="_blank">CFA Investment Foundations</a>  
 - <a href="https://drive.proton.me/urls/FNG5AW8HT0#8K0rtlwIdO6h" target="_blank">Bloomberg Market Concepts</a>  
+- <a href="https://www.credly.com/badges/1f35da27-001d-440a-9184-03f00e59a955/public_url" target="_blank">GitHub Copilot</a>  
 
 ---
 
