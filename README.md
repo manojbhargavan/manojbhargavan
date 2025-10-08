@@ -1,7 +1,7 @@
 ### Hi, I'm Manoj Bhargavan  
 
-- **Email:** [manoj.bhargavan@outlook.in](mailto:manoj.bhargavan@outlook.in)  
-- **LinkedIn:** [linkedin.com/in/manojbhargavan](https://www.linkedin.com/in/manojbhargavan/)  
+- **Email:** <a href="mailto:manoj.bhargavan@outlook.in" target="_blank">manoj.bhargavan@outlook.in</a>  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/manojbhargavan/" target="_blank">linkedin.com/in/manojbhargavan</a>  
 
 ---
 
@@ -29,11 +29,11 @@
 
 #### 🏅 Certifications
 
-- [AZ-305: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/f9c92da9cce551f8)  
-- [AZ-104: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/fb10e22a5651a9d3)  
-- [AZ-900: Azure Fundamentals](https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/e15429a0d57feb0d)  
-- [CFA Investment Foundations](https://basno.com/khjlx43i?em=li&t=1486162961)  
-- [Bloomberg Market Concepts](https://drive.proton.me/urls/FNG5AW8HT0#8K0rtlwIdO6h)  
+- <a href="https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/f9c92da9cce551f8" target="_blank">AZ-305: Azure Solutions Architect Expert</a>  
+- <a href="https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/fb10e22a5651a9d3" target="_blank">AZ-104: Azure Administrator Associate</a>  
+- <a href="https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/e15429a0d57feb0d" target="_blank">AZ-900: Azure Fundamentals</a>  
+- <a href="https://basno.com/khjlx43i?em=li&t=1486162961" target="_blank">CFA Investment Foundations</a>  
+- <a href="https://drive.proton.me/urls/FNG5AW8HT0#8K0rtlwIdO6h" target="_blank">Bloomberg Market Concepts</a>  
 
 ---
 
