@@ -29,9 +29,11 @@
 
 #### 🏅 Certifications
 
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/40eb4327-77c6-4347-96ce-b0e7bfd44f0f)  
-- [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/9f9426e2-6dbc-4836-9a69-e8ca6af2efee)  
-- [Certified ScrumMaster (CSM)](http://bcert.me/skryoaykh)  
+- [AZ-305: Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/f9c92da9cce551f8)  
+- [AZ-104: Azure Administrator Associate](https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/fb10e22a5651a9d3)  
+- [AZ-900: Azure Fundamentals](https://learn.microsoft.com/en-us/users/manojbhargavan-7357/credentials/e15429a0d57feb0d)  
+- [CFA Investment Foundations](https://basno.com/khjlx43i?em=li&t=1486162961)  
+- [Bloomberg Market Concepts](https://drive.proton.me/urls/FNG5AW8HT0#8K0rtlwIdO6h)  
 
 ---
 
