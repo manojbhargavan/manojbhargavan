@@ -37,10 +37,5 @@ jobs:
 
           # Lines of code changed
           plugin_lines: yes
-
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
           plugin_leetcode: yes
           plugin_leetcode_user: manojbhargavan
