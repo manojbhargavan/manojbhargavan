@@ -48,4 +48,4 @@
 
 #### 📊 GitHub Stats
 
-![Metrics](https://github.com/manojbhargavan/manojbhargavan/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/manojbhargavan/manojbhargavan/main/github-metrics.svg)
