@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: your-github-username
+          user: manojbhargavan
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata # Set your timezone
@@ -37,3 +37,10 @@ jobs:
 
           # Lines of code changed
           plugin_lines: yes
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_leetcode: yes
+          plugin_leetcode_user: manojbhargavan
