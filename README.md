@@ -1,6 +1,6 @@
 ### Hi, I'm Manoj Bhargavan  
 
-- **Email:** <a href="mailto:manoj.bhargavan@outlook.in" target="_blank">manoj.bhargavan@outlook.in</a>  
+- **Email:** <a href="mailto:cmanojbhargavan@gmail.com" target="_blank">cmanojbhargavan@gmail.com</a>  
 - **LinkedIn:** <a href="https://www.linkedin.com/in/manojbhargavan/" target="_blank">linkedin.com/in/manojbhargavan</a>  
 
 ---
