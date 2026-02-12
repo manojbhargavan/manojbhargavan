@@ -47,6 +47,6 @@
 ---
 
 #### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojbhargavan&count_private=true&show_icons=true)  
+ 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=manojbhargavan&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojbhargavan&layout=compact&hide=html)
