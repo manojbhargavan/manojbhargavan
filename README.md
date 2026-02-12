@@ -6,7 +6,7 @@
 ---
 
 #### 👨‍💼 Summary
-18+ years of experience in software development and cloud solutions, specializing in **.NET 6/8, Lift & Shift migrations, Azure, and enterprise frameworks**.  
+19+ years of experience in software development and cloud solutions, specializing in **.NET 6/8, Lift & Shift migrations, Azure, and enterprise frameworks**.  
 🏆 **Quarterly Shining Star Award Q2 2025**
 
 ---
