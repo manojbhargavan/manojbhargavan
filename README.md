@@ -48,4 +48,4 @@
 
 #### 📊 GitHub Stats
 
-![Metrics](https://github.com/your-username/your-username/blob/main/github-metrics.svg)
+![Metrics](https://github.com/manojbhargavan/manojbhargavan/blob/main/github-metrics.svg)
