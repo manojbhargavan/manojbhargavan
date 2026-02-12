@@ -14,16 +14,16 @@
 #### 💡 Core Competencies
 
 - **Enterprise Development:** .NET 6/8, C#, ASP.NET, .NET Core  
-- **Database & Cloud:** SQL Server, Azure, Terraform  
+- **Database & Cloud:** SQL Server, Azure, Terraform, Databricks
 - **Front-End & Web:** HTML5, CSS3, JavaScript, TypeScript, Bootstrap  
-- **Tools & IDEs:** Visual Studio, VS Code  
+- **Tools & IDEs:** Visual Studio, VS Code, Rider
 - **Additional Expertise:** Rust, C++, Application Lift & Shift, Framework Design
 
 ---
 
 #### 🛠 Technical Skills
 
-.NET 6/8, C#, ASP.NET, .NET Core, SQL Server, Azure, Terraform, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Visual Studio, VS Code, Rust, C++  
+.NET 6/8, C#, Python, ASP.NET, .NET Core, SQL Server, Azure, Terraform, JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Visual Studio, VS Code, Rust, C++  
 
 ---
 
